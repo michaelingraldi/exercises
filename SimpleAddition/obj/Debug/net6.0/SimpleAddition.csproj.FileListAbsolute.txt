@@ -1,0 +1,15 @@
+C:\Users\11600K\source\repos\SimpleAddition\bin\Debug\net6.0\SimpleAddition.exe
+C:\Users\11600K\source\repos\SimpleAddition\bin\Debug\net6.0\SimpleAddition.deps.json
+C:\Users\11600K\source\repos\SimpleAddition\bin\Debug\net6.0\SimpleAddition.runtimeconfig.json
+C:\Users\11600K\source\repos\SimpleAddition\bin\Debug\net6.0\SimpleAddition.dll
+C:\Users\11600K\source\repos\SimpleAddition\bin\Debug\net6.0\SimpleAddition.pdb
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.csproj.AssemblyReference.cache
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.AssemblyInfoInputs.cache
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.AssemblyInfo.cs
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.csproj.CoreCompileInputs.cache
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.dll
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\refint\SimpleAddition.dll
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.pdb
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\SimpleAddition.genruntimeconfig.cache
+C:\Users\11600K\source\repos\SimpleAddition\obj\Debug\net6.0\ref\SimpleAddition.dll
