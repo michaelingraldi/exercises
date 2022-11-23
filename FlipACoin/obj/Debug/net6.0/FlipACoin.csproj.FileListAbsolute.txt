@@ -1,0 +1,15 @@
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.csproj.AssemblyReference.cache
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.AssemblyInfoInputs.cache
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.AssemblyInfo.cs
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.csproj.CoreCompileInputs.cache
+C:\Users\11600K\source\repos\FlipACoin\bin\Debug\net6.0\FlipACoin.exe
+C:\Users\11600K\source\repos\FlipACoin\bin\Debug\net6.0\FlipACoin.deps.json
+C:\Users\11600K\source\repos\FlipACoin\bin\Debug\net6.0\FlipACoin.runtimeconfig.json
+C:\Users\11600K\source\repos\FlipACoin\bin\Debug\net6.0\FlipACoin.dll
+C:\Users\11600K\source\repos\FlipACoin\bin\Debug\net6.0\FlipACoin.pdb
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.dll
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\refint\FlipACoin.dll
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.pdb
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\FlipACoin.genruntimeconfig.cache
+C:\Users\11600K\source\repos\FlipACoin\obj\Debug\net6.0\ref\FlipACoin.dll
