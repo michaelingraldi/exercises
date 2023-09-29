@@ -1,0 +1,15 @@
+C:\Users\11600K\source\repos\GitSerarch\bin\Debug\net6.0\GitSerarch.exe
+C:\Users\11600K\source\repos\GitSerarch\bin\Debug\net6.0\GitSerarch.deps.json
+C:\Users\11600K\source\repos\GitSerarch\bin\Debug\net6.0\GitSerarch.runtimeconfig.json
+C:\Users\11600K\source\repos\GitSerarch\bin\Debug\net6.0\GitSerarch.dll
+C:\Users\11600K\source\repos\GitSerarch\bin\Debug\net6.0\GitSerarch.pdb
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.csproj.AssemblyReference.cache
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.AssemblyInfoInputs.cache
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.AssemblyInfo.cs
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.csproj.CoreCompileInputs.cache
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.dll
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\refint\GitSerarch.dll
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.pdb
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\GitSerarch.genruntimeconfig.cache
+C:\Users\11600K\source\repos\GitSerarch\obj\Debug\net6.0\ref\GitSerarch.dll
